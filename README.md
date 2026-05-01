@@ -7,7 +7,7 @@ Petit projet personnel sur lequel je travaille de temps en temps. Pour l'instant
 2175, Terre. Shadow Inc. est une organisation secrète qui projette de renverser le gouvernement corrompu en place. Nouvelle recrue, le joueur doit infiltrer des entrepôts militaires et des entreprises de hautes technologies pour subtiliser des armes toujours plus puissantes afin de renverser le système.
 
 # Remerciements
-Merci aux deux artistes sans qui le projet n'aurait jamais ne serait-ce que débuté:
+Merci aux deux artistes sans qui le projet n'aurait jamais ne serait-ce que débuté:\
 ■ La musique a été réalisée par [Kitsune DJ](https://www.youtube.com/@kitsunedj3472).\
 ■ L'arrière plan du menu principal a été réalisé par [D-Night221](https://www.pixilart.com/d-night221).\
 
