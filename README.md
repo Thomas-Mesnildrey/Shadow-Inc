@@ -8,8 +8,8 @@ Petit projet personnel sur lequel je travaille de temps en temps. Pour l'instant
 
 # Remerciements
 Merci aux deux artistes sans qui le projet n'aurait jamais ne serait-ce que débuté:\
-■ La musique a été réalisée par [Kitsune DJ](https://www.youtube.com/@kitsunedj3472).\
-■ L'arrière plan du menu principal a été réalisé par [D-Night221](https://www.pixilart.com/d-night221).
+● La musique a été réalisée par [Kitsune DJ](https://www.youtube.com/@kitsunedj3472).\
+● L'arrière plan du menu principal a été réalisé par [D-Night221](https://www.pixilart.com/d-night221).
 
 Merci à mon professeur de SI de prépa pour m'avoir assisté dans le dévelopement quand j'en ai eu besoin [Renaud Costadoat](https://github.com/Costadoat/).\
 Merci aux membres des serveurs discord suivants qui m'ont été d'une grande aide en m'aiguillant quand je travaillais sur le pixel art:\
