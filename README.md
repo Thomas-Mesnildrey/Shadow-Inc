@@ -1,7 +1,7 @@
 # Shadow Inc (Work in progresss)
 Petit projet personnel sur lequel je travaille de temps en temps. Pour l'instant je travaille sur les mouvements du personnage. Et des améliorations graphiques sont en chemin.
 
-<img width="800" height="439" alt="image" src="https://github.com/user-attachments/assets/994235a6-7c0e-4b8e-a93c-c3bb37dc5042" />
+<img width="800" height="439" alt="ezgif-80316003737cdd40" src="https://github.com/user-attachments/assets/189cc02f-8425-4cab-9020-64f2d6ab1b90" />
 
 # Pitch (susceptible d'être modifié)
 2175, Terre. Shadow Inc. est une organisation secrète qui projette de renverser le gouvernement corrompu en place. Nouvelle recrue, le joueur doit infiltrer des entrepôts militaires et des entreprises de hautes technologies pour subtiliser des armes toujours plus puissantes afin de renverser le système.
