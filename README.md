@@ -11,6 +11,6 @@ La musique a été réalisée par [Kitsune DJ](https://www.youtube.com/@kitsuned
 L'arrière plan du menu principal a été réalisé par [D-Night221](https://www.pixilart.com/d-night221).\
 Merci à mon professeur de SI de prépa pour m'avoir assisté dans le dévelopement quand j'en ai eu besoin [Renaud Costadoat](https://github.com/Costadoat/).\
 Et finalement, merci aux membres des serveurs discord suivants qui m'ont été d'une grande aide en m'aiguillant quand je travaillais sur le pixel art:\
--[Penusbmic's Server](https://discord.gg/q47XmyDNF5)\
--[Pixel Art Discord (PAD)](https://discord.gg/pixelart)\
+-Penusbmic's Server : [Penusbmic's Server](https://discord.gg/q47XmyDNF5)\
+-Pixel Art Discord (PAD) : [https://discord.gg/pixelart](https://discord.gg/pixelart)
 
