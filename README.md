@@ -4,7 +4,7 @@ Petit projet personnel sur lequel je travaille de temps en temps. Pour l'instant
 <img width="800" height="439" alt="ezgif-80316003737cdd40" src="https://github.com/user-attachments/assets/189cc02f-8425-4cab-9020-64f2d6ab1b90" />
 
 # Pitch (susceptible d'être modifié)
-2175, Terre. Shadow Inc. est une organisation secrète qui projette de renverser le gouvernement corrompu en place. Nouvelle recrue, le joueur doit infiltrer des entrepôts militaires et des entreprises de hautes technologies pour subtiliser des armes toujours plus puissantes afin de renverser le système.
+*2175*, Terre. Shadow Inc. est une organisation secrète qui projette de renverser le gouvernement corrompu en place. Nouvelle recrue, le joueur doit infiltrer des entrepôts militaires et des entreprises de hautes technologies pour subtiliser des armes toujours plus puissantes afin de renverser le système.
 
 # Remerciements
 Merci aux deux artistes sans qui le projet n'aurait jamais ne serait-ce que débuté:\
